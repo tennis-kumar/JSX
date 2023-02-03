@@ -1,12 +1,5 @@
 .heading {
-    color: red;
-}
-
-ul {
-    color: blueviolet;
-}
-
-.food-img {
-    width: 50;
-    height: 50;
+    font-size: 50px;
+    font-weight: bold;
+    border-bottom: 5px solid black;
 }
